@@ -14,7 +14,14 @@
   "license": "MIT",
   "author": "Rajeh Taher",
   "main": "lib/index.js",
+  "module": "lib/index.js",
   "types": "lib/index.d.ts",
+  "exports": {
+  ".": {
+    "import": "./lib/index.js",
+    "require": "./lib/index.cjs"
+  }
+},
   "files": [
     "lib/**/*",
     "WAProto/**/*",
