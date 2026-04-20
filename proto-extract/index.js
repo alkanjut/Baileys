@@ -1,3 +1,17 @@
+console.log(`
+\x1b[36m╔══════════════════════════════════════╗
+\x1b[35m        Thank's For Using
+\x1b[33m        Alkanjut Baileys ✨
+\x1b[36m╚══════════════════════════════════════╝
+
+\x1b[32mThis Baileys Support All WhatsApp Prototype 🎄
+
+\x1b[34mOWNER :
+\x1b[37mt.me/alkanjutReal
+\x1b[37mt.me/CrownBancet
+\x1b[0m
+`)
+
 const request = require('request-promise-native');
 const acorn = require('acorn');
 const walk = require('acorn-walk');
