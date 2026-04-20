@@ -1,6 +1,6 @@
 {
-  "name": "@alkanjut/bails",
-  "type": "commonjs",
+  "name": "@whiskeysockets/baileys",
+  "type": "module",
   "version": "7.0.0-rc.9",
   "description": "A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "author": "Rajeh Taher",
-  "main": "lib/index.cjs",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
     "lib/**/*",
